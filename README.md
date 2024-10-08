@@ -8,7 +8,7 @@ Additional Features:
 
 
 Screenshots of the mobile app:
-<img src="ss_2" width="300" />
-<img src="ss_1" width="300" />
+<img src="./ss_2" width="300" />
+<img src="./ss_1" width="300" />
 
 
