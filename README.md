@@ -1,5 +1,5 @@
 
-NOTE: You can purchase full code for only RM 50 (Can personally contect me)
+NOTE: You can purchase full code for only RM 50 (Can personally contact me)
 
 **Accessibility Features:**
 1. Audio Feedback
