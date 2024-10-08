@@ -1,3 +1,6 @@
+
+NOTE: You can purchase full code for only RM 50 (Can personally contect me)
+
 **Accessibility Features:**
 1. Audio Feedback
 2. Haptic Feedback
